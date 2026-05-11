@@ -1165,6 +1165,14 @@ body:has(.page-section:target:not(#home)) #home {
         width: 100% !important;
         height: 250px !important; 
     }
+    .hireMe__button { 
+    padding: 8px 15px !important; /* Menos relleno para que no abulte tanto */
+    font-size: 0.8rem !important; /* Letra un pelín más pequeña */
+    margin-left: 10px !important;
+    }
+
+
+
 }
  
 
